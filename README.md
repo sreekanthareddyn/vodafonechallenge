@@ -1,5 +1,5 @@
 
-# Example using Docker, Nginx, Nodejs and MySQL.
+# Vodafone challenge: Docker, Nginx, Nodejs and MySQL.
 - This is a Docker setup for a web application based on Nodejs.
 
 - A simple Nodejs helloworld applicaiton.
