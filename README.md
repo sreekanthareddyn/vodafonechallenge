@@ -1,6 +1,6 @@
 
-#Example using Docker, Nginx, Nodejs and MySQL.
-This is a Docker setup for a web application based on Nodejs.
+# Example using Docker, Nginx, Nodejs and MySQL.
+- This is a Docker setup for a web application based on Nodejs.
 
 - A simple Nodejs helloworld applicaiton.
 - Registered a domain "sreeexample.tk" in Freenom to test all the scenarios listed.
@@ -35,5 +35,5 @@ This is a Docker setup for a web application based on Nodejs.
 - Generating key with open ssl command
 	- sudo openssl dhparam -out /<location>/dhparam-2048.pem 2048
 
-##Test
+## Test
 - Finally you can test your application by hitting the domain https://<domainname>
